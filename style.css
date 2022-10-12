@@ -1,0 +1,14 @@
+.Body_Background {
+    background-image:url('Background.jpg') ;
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+#My_Canvas {
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: #1100ff;
+}
